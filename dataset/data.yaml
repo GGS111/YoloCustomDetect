@@ -1,0 +1,5 @@
+train: ../train/images
+val: ../valid/images
+
+nc: 3
+names: ['football player lies', 'football player sitting', 'football player standing']
